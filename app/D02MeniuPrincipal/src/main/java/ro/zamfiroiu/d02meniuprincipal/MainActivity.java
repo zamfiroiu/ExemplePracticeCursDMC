@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
             Toast.makeText(this, "Mesaj 1 din meniu", Toast.LENGTH_SHORT).show();
         }
         if (item.getItemId() == R.id.toast2) {
-            Toast.makeText(this, "Mesaj 2 din Meniu", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "Mesaj 2 din Meniu", Toast.LENGTH_LONG).show();
         }
         return true;
     }
