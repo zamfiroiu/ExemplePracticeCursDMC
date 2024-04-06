@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">I04AsyncTask</string>
+    <string name="get_images">Incarca imagini</string>
+</resources>
